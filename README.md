@@ -929,7 +929,6 @@ RETURN datetime(replace(ts, ' ', 'T')) AS converted_datetime
 
 For issues with the UMBC dataset, data import problems, or questions about example queries:
 - **Email**: Jason Paluck - paluck@umbc.edu
-- **Phone/Text**: 914-420-8505
 
 ### Quick Debug Queries
 
